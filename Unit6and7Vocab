@@ -4,17 +4,17 @@ Period 2
 Units 6 & 7
 
 Unit 6
-1. cohesive
-2. coupling
-3. composition
-4. has-a relationship
-5. precondition
+1. cohesive - When a class is cohesive, it has public methods, and the constants are all related to the main purpose of the class. When you make a class, and everything in the class is related, it is then cohesive.
+2. coupling - 
+3. composition - 
+4. has-a relationship - 
+5. precondition - 
 6. postcondition
 7. static field
 8. static method
 9. instance method
 10. class invariant
-11. scope of a variable - The scope of a variable is the area of a program in which the variable can be used without causing an error. The scope of a variable is limited to where the variable was declared, referring to them as global or local.
+11. scope of a variable
 12. shadowing
 13. toString method
 14. local variable
